@@ -1,0 +1,15 @@
+########################
+#Unreal Generated Files#
+########################
+*Build/
+*Binaries/
+*DerivedDataCahe/
+*Intermediate/
+*Saved/
+
+**StarterContent/**
+
+########################
+#Xcode Generated Files#
+########################
+*.xcworkspace
